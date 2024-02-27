@@ -7,8 +7,7 @@
     justify-content: space-between;
     padding-top: 61px;
     z-index: 2;
-    margin: 0 10%
-
+    margin: 0 10%;
 }
 
 .title{
@@ -18,10 +17,12 @@
     color : var(--color-text)
 }
 
+.menuBtn {
+    display: none;
+  }
+
 .menu{
     display: flex;
-    
-
 }
 
 .menuItems{
@@ -33,7 +34,7 @@
 .menuItems a{
     font-size: 25px;
     text-decoration: none;
-    color : var(--color-text)
+    color: var(--color-text)
 }
 
 @media screen and (max-width: 830px){
