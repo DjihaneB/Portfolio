@@ -13,6 +13,7 @@ export const About = () => {
           alt="Me sitting with a laptop"
           className={styles.aboutImage}
         />
+        <div className={styles.aboutImageBlur}></div>
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/icons/lcurseurIcon.png")} alt="Cursor icon" className="aboutIcon" />

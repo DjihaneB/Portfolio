@@ -1,0 +1,78 @@
+[{
+  "title": "HTML",
+  "imageSrc": "skills/html.png"
+},
+{
+  "title": "CSS",
+  "imageSrc": "skills/css.png"
+},
+{
+  "title": "JAVAScript",
+  "imageSrc": "skills/js.png"
+},
+{
+  "title": "React",
+  "imageSrc": "skills/react.png"
+},
+{
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Express",
+    "imageSrc": "skills/express.png"
+  },
+  {
+  "title": "Python",
+  "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "Django",
+    "imageSrc": "skills/django.png"
+  },
+  {
+  "title": "APIRest",
+  "imageSrc": "skills/api.png"
+  },
+  {
+  "title": "GraphQL",
+  "imageSrc": "skills/graphql.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "PostgreSQL",
+    "imageSrc": "skills/postgresql.png"
+  },
+  
+  {
+  "title": "Git",
+  "imageSrc": "skills/git.png"
+  },
+  {
+    "title": "GitHub",
+    "imageSrc": "skills/github.png"
+  },
+  {
+    "title": "VScode",
+    "imageSrc": "skills/vscode.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Knowledge of Scrum methodology",
+    "imageSrc": "skills/scrum.png"
+  },
+  {
+    "title": "Effective communication and collaboration",
+    "imageSrc": "skills/equipe.png"
+  },
+  {
+    "title": "Adaptability and autonomy",
+    "imageSrc": "skills/adaptability.png"
+  }
+]

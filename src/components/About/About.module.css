@@ -24,6 +24,17 @@
 }
 .aboutImage {
   width: 35%;
+  /* position: relative;  */
+}
+
+.aboutImageBlur {
+  position: absolute;
+  width: 25%;
+  height: 20%;
+  border-radius: 50%; 
+  background: rgba(25, 55, 109, 0.7);
+  filter: blur(100px);
+  z-index: -1; 
 }
 .aboutItems {
   color: var(--color-text);
