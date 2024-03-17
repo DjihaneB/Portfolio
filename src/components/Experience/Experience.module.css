@@ -13,6 +13,7 @@
   font-weight: 700;
   letter-spacing: 1.75px;
   text-transform: uppercase;
+  margin-bottom: 3%;
 }
 
 .content {
@@ -23,7 +24,7 @@
 }
 
 .skills {
-  width: 45%;
+  width: 35%;
   display: flex;
   flex-wrap: wrap;
   gap: 11px;
@@ -56,7 +57,7 @@
 }
 
 .history {
-  width: 45%;
+  width: 55%;
   display: flex;
   flex-direction: column;
   row-gap: 40px;
