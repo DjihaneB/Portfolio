@@ -1,26 +1,26 @@
 [
     {
-      "title": "Project A",
+      "title": "Vintage",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "description": "This is a project focused on building an e-commerce website for selling vintage furniture.",
+      "skills": ["React", "Express", "Node", "SQL", "Bcrypt"],
+      "demo": "",
+      "source": "https://github.com/DjihaneB/projet-collectif---vente-de-meubles-vintage_project"
     },
     {
-      "title": "Project B",
+      "title": "MovieLand",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "description": "Is a web application that displays information about movies. Its features include movie search by title and displaying results in detailed cards.",
+      "skills": ["React", "Express", "Python", "APIOMDb"],
+      "demo": "",
+      "source": "https://github.com/DjihaneB/MovieLand"
     },
     {
-      "title": "Project C",
+      "title": "Météo",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "description": "Weather is a Chrome browser extension featuring a search bar for specifying cities and a convenient popup window for easy access.",
+      "skills": ["JavaScript", "CSS", "APINinja"],
+      "demo": "",
+      "source": "https://github.com/DjihaneB/projet-collectif---extension-de-navigateur-choco_team"
     }
   ]

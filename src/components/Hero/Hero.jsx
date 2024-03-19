@@ -11,7 +11,7 @@ export const Hero = () => {
           I'm a full-stack developer student passionate about programming and
           eager to further enhance my skills.
         </p>
-        <a href="mailto:bouizemdjihane1312@gmail.com" className={styles.contactBtn}>Contact Me</a>
+        <a href="mailto:djihane.bouizem@gmail.com" className={styles.contactBtn}>Contact Me</a>
       </div>
       <img src={getImageUrl("hero/heroImage.png")} alt="Hero image of me" className={styles.heroImg}/>
 

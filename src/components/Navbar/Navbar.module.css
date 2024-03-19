@@ -101,3 +101,12 @@
         z-index: 1;
     }
 }
+@media screen and (max-width: 830px){
+    .navbar{
+        padding-top: 30px;
+    }
+    .menu{
+        margin-right: 0%;
+    }
+    
+}

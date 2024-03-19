@@ -14,7 +14,7 @@ export const Contact = () => {
         </div>
         <ul className={styles.links}>
             <li className={styles.link}>
-                <a href="bouizemdjihane1312@gmail.com">
+                <a href="mailto:djihane.bouizem@gmail.com">
                     <img src= {getImageUrl("contact/emailIcon.png")} alt="Email Icon" />
                 </a>
             </li>
@@ -31,7 +31,7 @@ export const Contact = () => {
         </ul>
         </div>
         <span className={styles.copywrite}>
-        Copyright © {year} Djihane Bouizem. All rights reserved.
+        Copyright © {year} DjihaneB. All rights reserved.
         </span>
       
     </footer>
