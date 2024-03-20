@@ -1,24 +1,24 @@
 [
     {
       "title": "Vintage",
-      "imageSrc": "projects/project.png",
+      "imageSrc": "projects/vintage.png",
       "description": "This is a project focused on building an e-commerce website for selling vintage furniture.",
       "skills": ["React", "Express", "Node", "SQL", "Bcrypt"],
-      "demo": "",
+      "demo": "https://imgur.com/y6JU2cr",
       "source": "https://github.com/DjihaneB/projet-collectif---vente-de-meubles-vintage_project"
     },
     {
       "title": "MovieLand",
-      "imageSrc": "projects/project.png",
-      "description": "Is a web application that displays information about movies. Its features include movie search by title and displaying results in detailed cards.",
+      "imageSrc": "projects/movieland.png",
+      "description": "Web application that displays information about movies includes movie search by title.",
       "skills": ["React", "Express", "Python", "APIOMDb"],
       "demo": "",
       "source": "https://github.com/DjihaneB/MovieLand"
     },
     {
       "title": "Météo",
-      "imageSrc": "projects/project.png",
-      "description": "Weather is a Chrome browser extension featuring a search bar for specifying cities and a convenient popup window for easy access.",
+      "imageSrc": "projects/R.png",
+      "description": "Weather is a Chrome browser extension featuring a search bar for specifying cities.",
       "skills": ["JavaScript", "CSS", "APINinja"],
       "demo": "",
       "source": "https://github.com/DjihaneB/projet-collectif---extension-de-navigateur-choco_team"
