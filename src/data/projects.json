@@ -17,7 +17,7 @@
     },
     {
       "title": "Météo",
-      "imageSrc": "projects/R.png",
+      "imageSrc": "projects/extention.png",
       "description": "Weather is a Chrome browser extension featuring a search bar for specifying cities.",
       "skills": ["JavaScript", "CSS", "APINinja"],
       "demo": "",
